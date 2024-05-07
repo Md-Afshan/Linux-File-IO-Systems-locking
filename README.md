@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 
 ## 1.To Write a C program that illustrates files copying 
 ```
-include <sys/stat.h>
+#include <sys/stat.h>
 #include <fcntl.h>
 #include <stdlib.h>
 int main()
